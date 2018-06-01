@@ -4,8 +4,8 @@ Project for exam (subject Computer Graphics)
 Work only for grayscales images, rgba images are not planned in near future
 
 # Effect
-###Before
+### Before
 ![alt text](https://github.com/dmbsk/histogram-equalization-very-simple-/blob/master/images/source/PgaNb.png)
 
-###After
+### After
 ![alt text](https://github.com/dmbsk/histogram-equalization-very-simple-/blob/master/images/output/PgaNb.png)
